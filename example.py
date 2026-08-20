@@ -1,4 +1,5 @@
 # Check if a number is odd or even
+print("This program checks if an integer is odd or even.")
 
 try: 
     # Get the user input
